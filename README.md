@@ -3,11 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kennethllerena" alt="kennethllerena" /></a> </p>
 
-- 🌱 I’m currently learning **Linux & Networking**
+- 🌱 I’m currently learning **JavaScript**
+
+- 📚 Pursuing **Google IT Support Certification**
 
 - 📫 How to reach me **kenneth.llerena@outlook.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/kennethllerena/](https://linkedin.com/in/kennethllerena/)
+- 📄 Learn about my experiences [https://linkedin.com/in/kennethllerena/](https://linkedin.com/in/kennethllerena/)
 
 - ⚡ Fun fact **I served in the U.S. Army**
 
