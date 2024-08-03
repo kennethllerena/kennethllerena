@@ -11,7 +11,7 @@
 
 - 📄 Learn about my experiences [https://linkedin.com/in/kennethllerena/](https://linkedin.com/in/kennethllerena/)
 
-- ⚡ Fun fact **I served in the U.S. Army**
+- ⚡ Fun fact: **I served in the U.S. Army**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
